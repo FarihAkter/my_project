@@ -1,0 +1,69 @@
+*
+{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+#bdypart
+{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding:20px;
+    margin-right: 744px;
+    background-color: rgb(9, 9, 9);
+}
+
+.headpart
+{
+    
+    padding: 80px;
+    background-image: url(backimg.png) ;
+    background-position: 100%;
+    width: 50%;
+    
+}
+
+button
+{
+    
+        margin: 20px;
+          background-color: rgb(137, 91, 34);
+          color: rgb(19, 18, 18);
+          font-weight: bolder;
+          font-size: 20px;
+          border: 5px solid rgb(137, 91, 34);
+          cursor:pointer;
+          border-radius: 80px;
+          
+          
+          
+}
+button:hover{
+    background-color: solid rgb(137, 91, 34);
+    color: rgb(14, 14, 14);
+}
+.logopart
+{
+    color: aliceblue;
+    font-size: x-large;
+    padding: 0px 290px 0px 0px;
+    
+}
+.imgpart
+{
+    
+    border-radius: 100px;
+}
+.one
+{
+    color: rgb(229, 80, 6);
+    font-size: 80px;
+    padding-left: 80px;
+}
+.two
+{
+    color: bisque;
+    font-size: 80px;
+    font-family:serif;
+}

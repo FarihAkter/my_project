@@ -1,0 +1,80 @@
+*
+{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+#fbpage
+{
+   display: flex;
+   padding: 20px;
+   align-items: center;
+   justify-content: space-evenly;
+   background-color: aliceblue;
+
+}
+.part-olivar
+{
+   display: flex;
+   padding: 5px;
+  align-items: center;
+  
+   
+}
+.info-part-olivar
+{
+ padding-left: 7%;
+
+}
+.part-mimi
+{
+   display: flex;
+   padding: 5px;
+  align-items: center;
+  
+   
+}
+.info-part-mimi
+{
+ padding-left: 7%;
+
+}
+.part-rex
+{
+   display: flex;
+   padding: 5px;
+  align-items: center;
+   
+}
+.info-part-rex
+{
+ padding-left: 7%;
+
+}
+button
+{
+    background-color: rgb(14, 82, 200);
+    font-size: small;
+    box-shadow: 5%;
+    color: white;
+    margin: 15px;
+    border: none;
+    padding: 10px 20px;
+    
+
+}
+.olivar{
+    background-color: rgb(235, 232, 235);
+    box-shadow: 5px 5px 5px rgb(252, 251, 251);
+    border-color: blanchedalmond;
+}
+.mimi{
+    background-color: rgb(235, 232, 235);
+    box-shadow: 5px 5px 5px rgb(252, 251, 251);
+    border-color: blanchedalmond;
+}
+.rex{
+    background-color: rgb(235, 232, 235);
+    box-shadow: 5px 5px 5px rgb(252, 251, 251);
+    border-color: blanchedalmond;
+}
